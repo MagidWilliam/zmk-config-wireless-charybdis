@@ -5,4 +5,5 @@
  */
 
 #include "charybdis.dtsi"
+#include "pmw3610.dtsi"
 
